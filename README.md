@@ -5,18 +5,18 @@
 ## Диаграмма вариантов использования
 ![Image alt](https://github.com/Daryakeke/tz3/raw/main/use_cases_diagram.png)
 \
-\
+
 ## Диаграмма последовательности для процесса заказа еды через приложение
 ![Image alt](https://github.com/Daryakeke/tz3/raw/main/sequence_diagram.png)
 \
-\
+
 ## Диаграмма состояний для заказа \
 ![Image alt](https://github.com/Daryakeke/tz3/raw/main/state_diagram.png)
 \
-\
+
 ## Диаграмма деятельности для описания процесса обработки заказа системой
 ![Image alt](https://github.com/Daryakeke/tz3/raw/main/activity_diagram.png)
 \
-\
-## Диаграмма классов для системы.
+
+## Диаграмма классов для системы
 ![Image alt](https://github.com/Daryakeke/tz3/raw/main/classes_diagram.png)
