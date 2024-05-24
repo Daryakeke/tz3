@@ -19,4 +19,4 @@
 
 
 ## Диаграмма классов для системы
-[Image alt](https://github.com/Daryakeke/tz3/raw/main/classes_diagram.png)
+![Image alt](https://github.com/Daryakeke/tz3/raw/main/class_diagram.png)
